@@ -1,0 +1,6 @@
+{
+  "require": {
+    "ext-json": "*",
+    "larapack/dd": "^1.1"
+  }
+}
